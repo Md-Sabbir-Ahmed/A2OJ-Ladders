@@ -3,7 +3,7 @@
 
 |  Name | Problems Count | Solved | Unsolved
 |---|:---:|:---:|---|
-|[Codeforces Rating from -INF to 1300 Part 1 ](https://codeforces.com/group/JC4gmpF4LH/contest/259094)|25|1|24
+|[Codeforces Rating from -INF to 1300 Part 1 ](https://codeforces.com/group/JC4gmpF4LH/contest/259094)|25|5|20
 |[Codeforces Rating from -INF to 1300 Part 2](https://codeforces.com/group/JC4gmpF4LH/contest/259095)|25|2|23
 |[Codeforces Rating from -INF to 1300 Part 3](https://codeforces.com/group/JC4gmpF4LH/contest/259096)|25|0|25
 |[Codeforces Rating from -INF to 1300 Part 4](https://codeforces.com/group/JC4gmpF4LH/contest/259097)|25|0|25
